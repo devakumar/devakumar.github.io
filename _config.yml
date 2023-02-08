@@ -16,17 +16,30 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "About me, Devakumar THAMMISETTY"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Devakumar"
+description              : >- # this means to ignore newlines until "baseurl:"
+  "Personal webpage of me, Devakumar THAMMISETTY. I am an Aerospace Engineer,
+  love rockets and I have been working with the Indian Space Research Organization
+  since my graduation from the Indian Institute of Technology, Bombay in the year 2012.
+  After six years of working for the design and testing of two of the "super cool" cryogenic
+  rocket engines, I got myself a masters degree in Mechanical Engineering from the
+  Swiss Federal Institute of Technology, Lausanne (EPFL) in the year 2020 with a
+  focus on controls and automation. My work on the Developement of Optimal Control
+  Softwate during the 6 months of master's thesis resulted in an open-source
+  software called MPOPT which solves almost any optimal control problem in the
+  standard Bolza form. My professional interests are in the area of mathematical
+  modelling, numerical simulation, control and optimization of engineeing systems.
+  I am motivated and super-excited to work with large scale engineering systems and
+   committed to contribute to a better, sustainable society."
+url                      : "https://devakumar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "devakumar/devakumar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -81,7 +94,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "devakumar_t"
 facebook:
   username               :
   app_id                 :
@@ -104,29 +117,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Devakumar THAMMISETTY"
+  avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g.
+  bio              : "Scientist, ISRO"
+  location         : "India"
+  email            : "devakumar.thammisetty@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:devakumar.thammisetty@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://devakumar.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      url: "https://twitter.com/devakumar_t"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/devakumar"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -134,21 +147,21 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      url: "https://twitter.com/devakumar_t"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:"https://github.com/devakumar"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
+      url: https://gitlab.epfl.ch/thammise
+    # - label: "Bitbucket"
+      # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url:
 
 
