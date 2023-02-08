@@ -5,6 +5,7 @@ author_profile: true
 permalink: /about/
 redirect_from:
   - /about.html
+  - /
 ---
 
 Welcome, I am an Aerospace Engineer,
