@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me, Devakumar THAMMISETTY"
+title                    : "Devakumar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Devakumar"
@@ -27,11 +27,11 @@ description              : >- # this means to ignore newlines until "baseurl:"
   After six years of working for the design and testing of two of the "super cool" cryogenic
   rocket engines, I got myself a masters degree in Mechanical Engineering from the
   Swiss Federal Institute of Technology, Lausanne (EPFL) in the year 2020 with a
-  focus on controls and automation. My work on the Developement of Optimal Control
-  Softwate during the 6 months of master's thesis resulted in an open-source
+  focus on controls and automation. My work on the Development of Optimal Control Problem Solver
+  Software during the 6 months of master's thesis resulted in an open-source
   software called MPOPT which solves almost any optimal control problem in the
   standard Bolza form. My professional interests are in the area of mathematical
-  modelling, numerical simulation, control and optimization of engineeing systems.
+  modeling, numerical simulation, control and optimization of engineeing systems.
   I am motivated and super-excited to work with large scale engineering systems and
    committed to contribute to a better, sustainable society."
 url                      : "https://devakumar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -126,21 +126,24 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:devakumar.thammisetty@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://devakumar.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/devakumar_t"
-    # - label: "Facebook"
-      # icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/devakumar-thammisetty-45009a1a/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=s9MYi38AAAAJ&hl=en&citsig=AMD79op8WpK06BipbEVqHJDaDbPiupN8YQ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devakumar"
-    # - label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "INAE"
+      icon: "fab fa-fw fa-award"
+      url: "https://www.inae.in/expert-profile-view/?cid=2862"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://www.researchgate.net/profile/Devakumar-Thammisetty"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/devakumar_t"
 
 # Site Footer
 footer:
