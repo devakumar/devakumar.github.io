@@ -2,10 +2,10 @@
 layout: archive
 title: "About me"
 author_profile: true
-permalink: /about/
+permalink: /
 redirect_from:
   - /about.html
-  - /
+  - /about
 ---
 
 Welcome, I am an Aerospace Engineer,
