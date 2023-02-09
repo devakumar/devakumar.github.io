@@ -34,7 +34,7 @@ description              : >- # this means to ignore newlines until "baseurl:"
   modeling, numerical simulation, control and optimization of engineeing systems.
   I am motivated and super-excited to work with large scale engineering systems and
    committed to contribute to a better, sustainable society."
-url                      : "https://devakumar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://devakumar.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "devakumar/devakumar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
