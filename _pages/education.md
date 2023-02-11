@@ -32,11 +32,11 @@ redirect_from:
 |-----------|------------|------------|
 | Controls & Automation | Optimization | Machine Learning and Data Science |
 |-----------|------------|------------|
-| Model Predictive Control [^1][5.75/6](/assets/mpc.pdf) | Optimal Decision Making [^6][5.5/6](/assets/odm.pdf) | Data Science for Business [^8][5.25/6](https://github.com/devakumar/dsfb-Project-Team3-2019/blob/master/Project.ipynb)|
-| Multivariable control [5.5/6] | Applied probability & stochastic processes[^7] [5.75/6]| Applied Machine Learning [^9][4.75/6](/assets/aml.pdf)|
-| Advanced control systems [^2][5.5/6](/assets/acs1.pdf), [^3][3](/assets/acs2.pdf)| | Machine learning programming [5.75/6]|
-| Networked control systems [5/6]| | |
-| System Identification [^4][5.75/6](/assets/ce1.pdf) [^5][5](/assets/ce2.pdf) | | |
+| Model Predictive Control[5.75/6] [^1][report](/assets/mpc.pdf) | Optimal Decision Making[5.5/6][^6][report](/assets/odm.pdf) | Data Science for Business [5.25/6] [^8][notebook](https://github.com/devakumar/dsfb-Project-Team3-2019/blob/master/Project.ipynb)|
+| Multivariable control[5.5/6] | Applied probability & stochastic processes[5.75/6][^7] | Applied Machine Learning [^9][4.75/6](/assets/aml.pdf)|
+| Advanced control systems[5.5/6][^2][lab1](/assets/acs1.pdf), [^3][lab2](/assets/acs2.pdf)| | Machine learning programming[5.75/6]|
+| Networked control systems[5/6]| | |
+| System Identification [5.75/6][^4][lab1](/assets/ce1.pdf) [^5][lab2](/assets/ce2.pdf) | | |
 |-----------|------------|------------|
 
 [^1]: Developing MPC controller for a quadcopter
