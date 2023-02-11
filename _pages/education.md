@@ -15,4 +15,4 @@ redirect_from:
 | B.Tech | 2012| Aerospace Engineering | Indian Institute of Technology (IIT), Bombay | 8.72/10 |
 |--------|---------|---------|--------|------------|
 
-## Projects (Master's)
+## Projects
