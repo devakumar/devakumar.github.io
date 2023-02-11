@@ -10,7 +10,7 @@ redirect_from:
 |--------|---------|---------|--------|
 |Employer|Year|Position|Subject|
 |--------|---------|---------|-----------|
-| Indian Space Research Organization, Trivandrum, India | Since 2012 <br> (9 yrs+)| Scientist| Rocket propulsion, Mathematical modelling, Data analysis [^note]IAC Abstract[1](https://iafastro.directory/iac/paper/id/70925/summary/) [2](https://iafastro.directory/iac/paper/id/70945/summary/)|
+| Indian Space Research Organization, Trivandrum, India | Since 2012 <br> (9 yrs+)| Scientist| Rocket propulsion [^note][ref1](https://iafastro.directory/iac/paper/id/70925/summary/) [ref2](https://iafastro.directory/iac/paper/id/70945/summary/)|
 |--------|---------|---------|----------|
 | Asyril SA, 1690 Villaz-St-Pierre - Switzerland | 2019 <br> (3 months) | Intern | Computer Vision, OpenCV |
 |--------|---------|----------|------------|
@@ -20,4 +20,5 @@ redirect_from:
 
 ## Projects
 
-[^n1]: The abstract is accepted but not presented due to policy constraints.
+
+[^note]: The abstract is accepted but not presented due to policy constraints.
