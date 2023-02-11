@@ -10,15 +10,13 @@ redirect_from:
 |--------|---------|---------|--------|
 |Employer|Year|Position|Subject|
 |--------|---------|---------|-----------|
-| Indian Space Research Organization, Trivandrum, India | Since 2012 <br> (9 yrs+)| Scientist| Rocket propulsion [^note][ref1](https://iafastro.directory/iac/paper/id/70925/summary/) [ref2](https://iafastro.directory/iac/paper/id/70945/summary/)|
+| Indian Space Research Organization, Trivandrum, India | Since 2012 (9 yrs+)| Scientist| Rocket propulsion [^note][ref1](https://iafastro.directory/iac/paper/id/70925/summary/) [ref2](https://iafastro.directory/iac/paper/id/70945/summary/)|
 |--------|---------|---------|----------|
-| Asyril SA, 1690 Villaz-St-Pierre - Switzerland | 2019 <br> (3 months) | Intern | Computer Vision, OpenCV |
+| Asyril SA, 1690 Villaz-St-Pierre - Switzerland | 2019 (3 months) | Intern | Computer Vision, OpenCV |
 |--------|---------|----------|------------|
-| Fluidyn, Bengaluru, India | 2011 <br>(2 months) | Intern | Programming, C++ |
+| Fluidyn, Bengaluru, India | 2011 (2 months) | Intern | Programming, C++ |
 |--------|---------|---------|--------|
 
 
-## Projects
 
-
-[^note]: The abstract is accepted but not presented due to policy constraints.
+[^note]: The abstract is accepted but the paper is not presented due to policy constraints.

@@ -32,7 +32,7 @@ redirect_from:
 |-----------|------------|------------|
 | Controls & Automation | Optimization | Machine Learning and Data Science |
 |-----------|------------|------------|
-| Model Predictive Control [5.75/6] [^a][report](/assets/mpc.pdf) | Optimal Decision Making [5.5/6] [^f][report](/assets/odm.pdf) | Data Science for Business [5.25/6] [^h][notebook](https://github.com/devakumar/dsfb-Project-Team3-2019/blob/master/Project.ipynb)|
+| Model Predictive Control [5.75/6] [^a][report](/assets/mpc.pdf) | Optimal Decision Making [5.5/6] [^f][report](/assets/odm.pdf) | Data Science for Business [5.25/6] [^h] [notebook](https://github.com/devakumar/dsfb-Project-Team3-2019/blob/master/Project.ipynb)|
 | Multivariable control [5.5/6] | Applied probability & stochastic processes [5.75/6] [^g] | Applied Machine Learning [4.75/6] [^i][report](/assets/aml.pdf)|
 | Advanced control systems [5.5/6][^b][lab1](/assets/acs1.pdf), [^c][lab2](/assets/acs2.pdf)| | Machine learning programming [5.75/6]|
 | Networked control systems [5/6]| | |
@@ -46,5 +46,5 @@ redirect_from:
 [^e]: State-space model and parametric identification
 [^f]: Optimal transport and distributionally robust optimization (DRO)
 [^g]: Markov chains, dynamic programming, LQR, Dynamic portfolio selection
-[^g]: IPO price prediction (PCA, NLP, Regression, Classification, CNN)
+[^h]: IPO price prediction (PCA, NLP, Regression, Classification, CNN)
 [^i]: Machine learning experiments on data sets
