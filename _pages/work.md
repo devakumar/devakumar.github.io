@@ -16,6 +16,3 @@ redirect_from:
 |--------|---------|----------|------------|
 | Fluidyn, Bengaluru | 2019 (2 months) | Intern | Programming, C++ |
 |--------|---------|---------|--------|------------|
-
-
-## Projects (Master's)
