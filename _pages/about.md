@@ -10,7 +10,7 @@ redirect_from:
 Welcome, I have a masters degree in Mechanical Engineering from EPFL, Lausanne and bachelors in Aerospace Engineering from one of the top premier institutes in India, IIT Bombay.
 
 
-I love rockets and engineering, and have been working with the Indian Space Research Organization since 2012. After six years of working for the design and testing of two of the "super cool" cryogenic rocket engines, I have pursed masters degree with rigorous training on advanced control, optimization, machine learning and data science from one of the best universities in the world, Swiss Federal Institute of Technology (EPFL), Lausanne.
+I love rockets and engineering, and have been working with the Indian Space Research Organization since 2012. After six years of working for the design and successful testing of two of the "super cool" cryogenic rocket engines, I  pursed masters degree with rigorous training on advanced control, optimization, robotic, machine learning and data science from one of the best universities in the world, Swiss Federal Institute of Technology (EPFL), Lausanne.
 
 
 My master thesis work on the "Development of optimal control problem solver
