@@ -10,12 +10,14 @@ redirect_from:
 |--------|---------|---------|--------|-----|
 |Employer|Year|Position|Subject|Remarks |
 |--------|---------|---------|-----------|-------|
-| Indian Space Research Organization, Trivandrum | Since 2012 (9 yrs+)| Scientist 'SE' | Rocket Propulsion | [IAC Abstract 1] [1.](https://iafastro.directory/iac/paper/id/70925/summary/) <br> [IAC Abstract 2] [2.](https://iafastro.directory/iac/paper/id/70945/summary/)|
+| Indian Space Research Organization, Trivandrum, India | Since 2012 <br> (9 yrs+)| Scientist| Rocket propulsion, Mathematical modelling, Data analysis | [IAC Abstract][^n1](https://iafastro.directory/iac/paper/id/70925/summary/) [^n1](https://iafastro.directory/iac/paper/id/70945/summary/)|
 |--------|---------|---------|----------|-----------|
-| Asyril SA, 1690 Villaz-St-Pierre - Switzerland | 2019 <br> (3 months) | Intern | Computer Vision, OpenCV | [Evaluation] [3.](<iframe src="/assets/asyril.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)|
+| Asyril SA, 1690 Villaz-St-Pierre - Switzerland | 2019 <br> (3 months) | Intern | Computer Vision, OpenCV | |
 |--------|---------|----------|------------|--------|
-| Fluidyn, Bengaluru | 2011 <br>(2 months) | Intern | Programming, C++ | |
-|--------|---------|---------|--------|------------|--------|
+| Fluidyn, Bengaluru, India | 2011 <br>(2 months) | Intern | Programming, C++ | |
+|--------|---------|---------|--------|------------|
 
 
 ## Projects
+
+[^n1]: The abstract is accepted but not presented due to policy constraints.
