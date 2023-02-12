@@ -32,19 +32,9 @@ redirect_from:
 |-----------|------------|------------|
 | Controls & Automation | Optimization | Machine Learning and Data Science |
 |-----------|------------|------------|
-| Model Predictive Control [5.75/6] [^a][report](/assets/mpc.pdf) | Optimal Decision Making [5.5/6] [^f][report](/assets/odm.pdf) | Data Science for Business [5.25/6] [^h] [notebook](https://github.com/devakumar/dsfb-Project-Team3-2019/blob/master/Project.ipynb)|
-| Multivariable control [5.5/6] | Applied probability & stochastic processes [5.75/6] [^g] | Applied Machine Learning [4.75/6] [^i][report](/assets/aml.pdf)|
-| Advanced control systems [5.5/6][^b][lab1](/assets/acs1.pdf), [^c][lab2](/assets/acs2.pdf)| | Machine learning programming [5.75/6]|
-| Networked control systems [5/6]| | |
-| System Identification [5.75/6][^d][lab1](/assets/ce1.pdf) [^e][lab2](/assets/ce2.pdf) | | |
+| Model Predictive Control [5.75/6] [report](/assets/mpc.pdf)<br> Prof. Colin Neil Jones [[1]](https://edu.epfl.ch/coursebook/en/model-predictive-control-ME-425) | Optimal Decision Making [5.5/6] [report](/assets/odm.pdf) <br> Prof. Daniel Kuhn[[2]](https://edu.epfl.ch/coursebook/en/optimal-decision-making-MGT-483) | Data Science for Business [5.25/6] [notebook](https://github.com/devakumar/dsfb-Project-Team3-2019/blob/master/Project.ipynb) <br> Prof. Kenneth A. Younge [[3]](https://edu.epfl.ch/coursebook/en/data-science-for-business-MGT-432)|
+| Multivariable control [5.5/6] <br> Prof. Ferrari Trecate Giancarlo [[4]](https://edu.epfl.ch/coursebook/en/multivariable-control-ME-422) | Applied probability & stochastic processes [5.75/6] <br> Sutter Tobias [[5]](https://edu.epfl.ch/coursebook/en/applied-probability-stochastic-processes-MGT-484) | Applied Machine Learning [4.75/6] [report](/assets/aml.pdf) <br> Prof. Aude Billard [[6]](https://edu.epfl.ch/coursebook/fr/applied-machine-learning-MICRO-455)|
+| Advanced control systems [5.5/6][lab1](/assets/acs1.pdf), [lab2](/assets/acs2.pdf) <br>  Prof. Karimi Alireza [[7]](https://edu.epfl.ch/coursebook/fr/advanced-control-systems-ME-524)| | Machine learning programming [5.75/6] <br> Prof. Aude Billard [[8]](https://edu.epfl.ch/coursebook/en/machine-learning-programming-MICRO-401)|
+| Networked control systems [5/6] <br> Prof. Ferrari Trecate Giancarlo [[9]](https://edu.epfl.ch/coursebook/en/networked-control-systems-ME-427)| | |
+| System Identification [5.75/6][lab1](/assets/ce1.pdf), [lab2](/assets/ce2.pdf) <br>  Prof. Karimi Alireza [[10]](https://edu.epfl.ch/coursebook/fr/system-identification-ME-421)| | |
 |-----------|------------|------------|
-
-[^a]: Developing MPC controller for a quadcopter
-[^b]: Model based and data driven control
-[^c]: Robust adaptive control
-[^d]: Impulse response and frequency response identification
-[^e]: State-space model and parametric identification
-[^f]: Optimal transport and distributionally robust optimization (DRO)
-[^g]: Markov chains, dynamic programming, LQR, Dynamic portfolio selection
-[^h]: IPO price prediction (PCA, NLP, Regression, Classification, CNN)
-[^i]: Machine learning experiments on data sets
