@@ -27,7 +27,7 @@ redirect_from:
 | Semester project | Embedded Real time optimization of a fuel cell system [5.25/6] |2019 | Petr Listov<br> Prof. Colin Neil Jones (LA3) | [Report](/assets/rto.pdf) |
 |----|----|----|----|----|
 
-## Course Projects
+## Courses and Projects
 
 |-----------|------------|------------|
 | Controls & Automation | Optimization | Machine Learning and Data Science |
